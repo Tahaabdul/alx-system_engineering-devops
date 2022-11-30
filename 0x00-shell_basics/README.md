@@ -3,4 +3,5 @@
 2. A script to change to home directory
 3. A script to long list file details in shell
 4. A longer form of ls with more details 
-5. To produce long list with group ids & uids as digits 
+5. To produce long list with group ids & uids as digits
+6. To create a new directory "my/_first/_directory" 
